@@ -1,0 +1,11 @@
+bd32eedac70b8682c75e461b0394d102 *DESCRIPTION
+f1103633eda16e2a9ebcbc3ad4dbdf31 *LICENSE
+a88d6938ded291f858f6868e9eef9e2c *NAMESPACE
+9a8ecb142d8a24335b0402e33a7b04ec *R/cross_validation.R
+b802a50427bca588c61b1c310dbb3b3f *R/did_had.R
+1c0589e0c77c80161f6136f158d83187 *R/did_had_est.R
+493d4df0f48c88ed7d98326b0643ce99 *R/did_had_graph.R
+9e896daaf281a0ac1d046ae55eb521fc *R/did_het_adoption_main.R
+fa825acfbadf83a4ab101c58f0b35158 *R/print.R
+f92a0f214a8e90f225ba6545e6cb9e22 *R/rnames.R
+400043b2a64a433622dc208122ead8b5 *man/did_had.Rd
